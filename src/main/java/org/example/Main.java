@@ -5,6 +5,7 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("second commit");
         System.out.println("this is my third commit");
-        System.out.println("skip staging");
+        System.out.println("skip staging ");
+        System.out.println("hfjsdhgfjhs");
     }
 }
